@@ -5,7 +5,7 @@ This project came about as a request from a chemistry teacher at the high school
 I went through various iterations and combinations of magnets before I got something that could work and what I show here is my progress – so far – with creating an inverter magnet.
 
 # 3D-Printed Inverter Magnet (Magnets Holder)
-IMAGE
+![Image_2](https://github.com/user-attachments/assets/c76061d3-c195-4880-bfa5-97e840566a4c)
 The design I settled on utilizes one interior magnet alongside ten exterior magnets. I designed it on OnShape and then proceeded to print it using my Original Prusa Mini+ and using PrusaSlicer.
 # Specifications & Material(s)
 Below you can find the printer and material used.

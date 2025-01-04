@@ -1,4 +1,4 @@
-IMAGE
+![Image_1](https://github.com/user-attachments/assets/f6b66426-0fd5-43b2-bb30-ae43fa658962)
 # Introduction
 This project came about as a request from a chemistry teacher at the high school where I work. They wanted to model bonds between molecules and that was when I was introduced to the concept of an inverter magnet. Essentially, they wanted me to construct something that would work like this: https://www.youtube.com/watch?v=ZSNU9GN-NJI
 
@@ -17,7 +17,7 @@ INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Ac
 https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
 # Software
  PrusaSlicer
-IMAGE
+![Image_3](https://github.com/user-attachments/assets/1701ac93-f0d4-4695-80bd-659dac15fa1f)
 ## Settings
   Layer Height: .2mm \
   Infill: 50% \
@@ -27,13 +27,14 @@ IMAGE
 This is the most important part because wrongfully attaching magnets will cause issues with the magnetic field and thereby making the “tractor beam” effect null.
 ## Magnets Arrangement
 To make this inverter work, we need two sets of “magnets”. The first is made up of two 20mm diameter, 3mm thickness neodymium magnets stacked on top of each other, like so:
-IMAGE
+![Image_4](https://github.com/user-attachments/assets/0fdad79c-7cc3-4215-baeb-50a942235f72)
 The second is for the 3D printed part. Take 4 5mm diameter, 1 mm thickness magnets, stacked on top of each other, and make sure they repel the two large magnets. Create ten sets of these and insert them into the 3D-printed part like so:
-IMAGE
+![Image_5](https://github.com/user-attachments/assets/7727e89c-4e56-4da6-afcf-5922a629d18e)
 After doing this, take another 20mm diameter, 3mm thickness magnet and make sure it attracts the two 20mm diameter, 3mm thickness magnets stacked on top of each other. Place three 12mm diameter, 2mm thickness neodymium magnets atop the center of the first 20mm diameter, 3 mm thickness magnet, followed by two 10mm diameter, 2mm thickness neodymium magnets on top as well. Push this into the 3D-printed part.
 
 Congratulations, you now have a fully-assembled inverter magnet! Time to test it! Hopefully you will see something like this:
-VIDEO
+
+https://github.com/user-attachments/assets/49302779-e3c6-465c-8665-3d15ed1d7994
 ## Material(s)
 20x3mm Strong Neodymium Magnet, 25Pcs – this can be purchased for $13.99 at the following link:
 https://www.amazon.com/gp/product/B0CJ33WWZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1

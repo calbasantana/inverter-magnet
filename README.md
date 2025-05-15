@@ -12,9 +12,8 @@ Below you can find the printer and material used.
 ## 3D Printer
  Original Prusa Mini+
 ## Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link:
-https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+) 
 # Software
  PrusaSlicer
 ![Image_3](https://github.com/user-attachments/assets/1701ac93-f0d4-4695-80bd-659dac15fa1f)
@@ -36,14 +35,14 @@ Congratulations, you now have a fully-assembled inverter magnet! Time to test it
 
 https://github.com/user-attachments/assets/49302779-e3c6-465c-8665-3d15ed1d7994
 ## Material(s)
-20x3mm Strong Neodymium Magnet, 25Pcs – this can be purchased for $13.99 at the following link:
-https://www.amazon.com/gp/product/B0CJ33WWZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+* [20x3mm Neodymium Magnets ($13.99)](https://www.amazon.com/gp/product/B0CJ33WWZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+)
 
-500 Pieces Small Magnets, Small Magnets Rare Earth Magnets Tiny Neodymium Disc Magnets – this can be purchased for $11.97 at the following link: https://www.amazon.com/gp/product/B0BWD7H7Z9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+* [5x1mm Neodymium Magnets ($11.97)](https://www.amazon.com/gp/product/B0BWD7H7Z9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-TRYMAG Small Magnets 60Pcs, 12x2mm Neodymium Magnets, Tiny Strong Small Round Magnets – this can be purchased for $9.99 at the following link: https://www.amazon.com/TRYMAG-Magnets-Neodymium-Refrigerator-Whiteboard/dp/B0CLZP57FD/ref=sr_1_6?crid=Z915WUNALDZT&dib=eyJ2IjoiMSJ9.lDwRWM83zO8KGI48y_Fh9OdcU2HH7q_dn_wgRNFxGZrRE73s3UrwVE_T2PtMXcBHJXs9vZBDzj5eKWbCvYQMi3bd4t9n3kz4mx-diLIbOrxZfT5oeIjrveO2iS-SYft7XxnmOCLSJdq6cADP8ZyC_J72aow08pmLcemV2XWZaojUqjJ3iu0PwMn6fzDpNZYAuqHMvB-j3R8_eVk3sVODhAcCz_hhjqiEWioUzlHXJGo.0gdPJB8_ETQfY53zps-iSuHfcmOvzVzFxEHqqBNJuO8&dib_tag=se&keywords=12mm+neodymium+magnets&qid=1735872477&sprefix=12mm+neodynium+magnet%2Caps%2C112&sr=8-6
+* [12x2mm Neodymium Magnets ($9.99)](https://www.amazon.com/TRYMAG-Magnets-Neodymium-Refrigerator-Whiteboard/dp/B0CLZP57FD/ref=sr_1_6?crid=Z915WUNALDZT&dib=eyJ2IjoiMSJ9.lDwRWM83zO8KGI48y_Fh9OdcU2HH7q_dn_wgRNFxGZrRE73s3UrwVE_T2PtMXcBHJXs9vZBDzj5eKWbCvYQMi3bd4t9n3kz4mx-diLIbOrxZfT5oeIjrveO2iS-SYft7XxnmOCLSJdq6cADP8ZyC_J72aow08pmLcemV2XWZaojUqjJ3iu0PwMn6fzDpNZYAuqHMvB-j3R8_eVk3sVODhAcCz_hhjqiEWioUzlHXJGo.0gdPJB8_ETQfY53zps-iSuHfcmOvzVzFxEHqqBNJuO8&dib_tag=se&keywords=12mm+neodymium+magnets&qid=1735872477&sprefix=12mm+neodynium+magnet%2Caps%2C112&sr=8-6)
   
-DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet – this can be purchased for $12.99 at the following link: https://www.amazon.com/gp/product/B0753ZPBLQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+* [10x2mm Neodymium Magnets ($12.99)](https://www.amazon.com/gp/product/B0753ZPBLQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 # Tips
 It is highly recommended to do this on a flat surface that is smooth; for example, doing it on a laminated surface seems to work really well.
 
